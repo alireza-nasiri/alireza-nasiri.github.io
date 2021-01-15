@@ -1,6 +1,6 @@
 I am a PhD candidate in computer science and engineering at University of South Carolina. My research interests are deep learning, machine learning, audio analysis, and bioinformatics.
 
-### <a href="my_files/Ali_Nasiri_CV2020.pdf" target="_blank">Resume / CV 
+### <a href="my_files/AlirezaNasiri_CV.pdf" target="_blank">Resume / CV 
 
 ### Publications
 * Alireza Nasiri, Yuxin Cui, Zhonghao Liu, Jing Jin, Yong Zhao, and Jianjun Hu, "AudioMask: Robust Sound Event Detection Using Mask R-CNN and Segment-Level Classifier," 2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI), Portland, OR, USA, pp. 485-492, 2019. 
